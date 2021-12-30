@@ -11,5 +11,5 @@
 - Music and movie enthusiast
 
 ### What I Use
-- Vim is my main code editor
+- Vim is my main text editor
 - Python, C/C++, Javascript, and Bash
