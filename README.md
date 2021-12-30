@@ -3,6 +3,13 @@
 ## Developer, Hobbyist, Freelancer
 
 ### About Me
-- Vim is my main code editor
-- Interests include networking, cyber security, and learning new and obscure coding languages
+- Interests include:
+	- Networking
+	- Cyber security
+	- Web Development
+	- Learning new and obscure coding languages
 - Music and movie enthusiast
+
+### What I Use
+- Vim is my main code editor
+- Python, C/C++, Javascript, and Bash
