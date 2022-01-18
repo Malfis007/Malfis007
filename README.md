@@ -1,7 +1,3 @@
-# aka Malfis007
-
-## Developer, Hobbyist, Freelancer
-
 ### About Me
 - Interests include:
 	- Networking
